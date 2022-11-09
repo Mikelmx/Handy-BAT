@@ -4,6 +4,8 @@ echo Running Exe's
 
 Call xx
 
+Start Chrome.exe
+
 Call xx
 
 pause
