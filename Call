@@ -1,0 +1,9 @@
+
+@echo off
+echo Running Exe's
+
+Call xx
+
+Call xx
+
+pause
