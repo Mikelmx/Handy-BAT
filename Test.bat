@@ -1,3 +1,3 @@
 @echo off
-echo Hello this a test batch file
+echo Hello this a test script
 pause
